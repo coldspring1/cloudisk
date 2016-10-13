@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-drive/v2-rev180-1.20.0/e43ed087122050caf4b5406e7f0be26e0dd54034/google-api-services-drive-v2-rev180-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e43ed087122050caf4b5406e7f0be26e0dd54034">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/google-api-services-drive-v2-rev180-1.20.0_63eb4541c84cbfa8a07028d7a8cd4e3632f671eb.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_f2e1b0d06f6e62978d83facad2378cca616bc1ce.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0_34516e5ac4a695ba4e9028cf2c703974d9c84257.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_e7371a8c796ed053680aa085bd7b79813d285e47.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.3.0_4e03713012e72c7ff1c1b86fdc3fbac6b3f62670.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0_8b0a9504b1243ab6e5e570157b36df58066409d0.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.3.0_fc6636691c8b4eb28943f9c0e990e306a00d7c89.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0_6dde84c6abe1151657b4bc6ba752087cc080bc82.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0_0f8e801ec9a4c2d64abaaf64cbb44c1fad1dc0c9.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/gson-2.7_bce0ecaf715a4a24b21bc6330e51ebcb0c1b8517.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_a7c36290aca87b1475f3b8534b8fdeb305a176ec.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_087125c3db86d0a5651d146aae590ac05af45583.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_279e18138272f8ca5190cc3989e7bb49b0109877.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.17.0-rc/cfef30e5d361e2fd2892eed93a183db48dcae153/google-api-client-android-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cfef30e5d361e2fd2892eed93a183db48dcae153">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.17.0-rc_77633e9ed4d32ed26ed78606df009707946cde10.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_3c1b357535ee2755c941f2f60a57036e7809016e.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.17.0-rc/f3fc9acc57c2a55fd17a421710f564b73dabda21/google-http-client-android-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3fc9acc57c2a55fd17a421710f564b73dabda21">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.17.0-rc_65526c3b692af3bee5656914eeae611614ab13e8.jar" />
+    </item>
+    <item
+        jar="/Users/Dongke/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/Dongke/AndroidStudioProjects/cloudisk/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0_acdcbb4d68f5b9b9b81dd92bf8c0d8e24c09703e.jar" />
+    </item>
+
+</items>
